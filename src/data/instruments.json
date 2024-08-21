@@ -1,0 +1,129 @@
+[
+    {
+      "id": 1,
+      "name": "Piano",
+      "image": "/images/piano.jpg",
+      "sound": "/sounds/piano.mp3",
+      "history": "The piano was invented in Italy in 1709 by Bartolomeo Cristofori.",
+      "inventor": "Bartolomeo Cristofori",
+      "year": 1709
+    },
+    {
+      "id": 2,
+      "name": "Guitar",
+      "image": "/images/guitar.jpg",
+      "sound": "/sounds/guitar.mp3",
+      "history": "The guitar has ancient roots, dating back over 4000 years.",
+      "inventor": "Unknown",
+      "year": "Ancient"
+    },
+    {
+      "id": 3,
+      "name": "Sitar",
+      "image": "/images/sitar.jpg",
+      "sound": "/sounds/sitar.mp3",
+      "history": "The sitar originated from the Indian subcontinent during the medieval period.",
+      "inventor": "Amir Khusrow",
+      "year": "13th-Century"
+    },
+    {
+      "id": 4,
+      "name": "Violin",
+      "image": "/images/violin.jpg",
+      "sound": "/sounds/violin.mp3",
+      "history": "The modern violin evolved from earlier stringed instruments in Italy in the 16th century.",
+      "inventor": "Andrea Amati",
+      "year": 1555
+    },
+    {
+      "id": 5,
+      "name": "Djembe",
+      "image": "/images/djembe.jpg",
+      "sound": "/sounds/djembe.mp3",
+      "history": "The djembe is a rope-tuned skin-covered goblet drum played with bare hands, originally from West Africa.",
+      "inventor": "Mandingue people",
+      "year": "Ancient"
+    },
+    {
+      "id": 6,
+      "name": "Didgeridoo",
+      "image": "/images/didgeridoo.jpg",
+      "sound": "/sounds/didgeridoo.mp3",
+      "history": "The didgeridoo is a wind instrument developed by Indigenous Australians of northern Australia.",
+      "inventor": "Indigenous Australians",
+      "year": "Over 1,000 years ago"
+    },
+    {
+      "id": 7,
+      "name": "Bagpipes",
+      "image": "/images/bagpipes.jpg",
+      "sound": "/sounds/bagpiper.mp3",
+      "history": "The bagpipes are a wind instrument using enclosed reeds fed from a constant reservoir of air in the form of a bag.",
+      "inventor": "Unknown, popular in Scotland",
+      "year": "Ancient"
+    },
+    {
+      "id": 8,
+      "name": "Shamisen",
+      "image": "/images/shamisen.jpg",
+      "sound": "/sounds/shamisen.mp3",
+      "history": "The shamisen is a three-stringed traditional Japanese musical instrument.",
+      "inventor": "Developed from the Chinese instrument sanxian",
+      "year": "16th-Century"
+    },
+    {
+      "id": 9,
+      "name": "Accordion",
+      "image": "/images/accordion.jpg",
+      "sound": "/sounds/accordion.mp3",
+      "history": "The accordion is a box-shaped musical instrument that is played by compressing or expanding the bellows while pressing buttons or keys.",
+      "inventor": "Cyrill Demian",
+      "year": 1829
+    },
+    {
+      "id": 10,
+      "name": "Tabla",
+      "image": "/images/tabla.jpg",
+      "sound": "/sounds/tabla.mp3",
+      "history": "The tabla is a pair of twin hand drums from the Indian subcontinent, used in traditional, classical, popular and folk music.",
+      "inventor": "Amir Khusrow",
+      "year": "13th-Century"
+    },
+    {
+      "id": 11,
+      "name": "Balalaika",
+      "image": "/images/balalaika.jpg",
+      "sound": "/sounds/balalaika.mp3",
+      "history": "The balalaika is a Russian stringed musical instrument with a characteristic triangular body.",
+      "inventor": "Unknown, popular in Russia",
+      "year": "18th-Century"
+    },
+    {
+      "id": 12,
+      "name": "Oud",
+      "image": "/images/oud.jpg",
+      "sound": "/sounds/oud.mp3",
+      "history": "The oud is a short-neck lute-type, pear-shaped stringed instrument with 11 or 13 strings grouped in 5 or 6 courses.",
+      "inventor": "Ancient Mesopotamians",
+      "year": "3500 BCE"
+    },
+    {
+      "id": 13,
+      "name": "Harp",
+      "image": "/images/harp.jpg",
+      "sound": "/sounds/harp.mp3",
+      "history": "The harp is a stringed musical instrument that has a number of individual strings running at an angle to its soundboard.",
+      "inventor": "Unknown, dates back to Ancient Egypt",
+      "year": "3000 BCE"
+    },
+    {
+      "id": 14,
+      "name": "Kora",
+      "image": "/images/kora.jpg",
+      "sound": "/sounds/kora.mp3",
+      "history": "The kora is a 21-string lute-bridge-harp used extensively in West Africa.",
+      "inventor": "Mande people of West Africa",
+      "year": "Ancient"
+    }
+  ]
+  
